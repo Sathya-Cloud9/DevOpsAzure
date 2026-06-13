@@ -1,0 +1,100 @@
+Pricing for Azure DevOps:
+
+https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+
+
+section 2:
+Default processes and process templates:
+https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process
+
+
+About access levels:
+https://learn.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
+
+Out Of Box widget catalog:
+https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops
+
+10.7 Git Internals - Maintenance and Data Recovery:
+https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery
+
+
+About large files on GitHub:
+https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+
+
+Microsoft-hosted agents:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=windows-images%2Cyaml
+
+
+Use predefined variables:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml
+
+
+Build GitHub repositories:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/github?view=azure-devops&tabs=yaml
+
+Sonarcloud:
+https://www.sonarsource.com/products/sonarqube/cloud/
+
+
+Pipeline caching:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/release/caching?view=azure-devops&tabs=bundler
+
+Update connectors URL:
+https://learn.microsoft.com/en-us/microsoftteams/m365-custom-connectors?view=azure-devops#update-connectors-url
+
+Understand the structure and syntax of ARM templates:
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax
+
+Microsoft.Web sites:
+https://learn.microsoft.com/en-us/azure/templates/microsoft.web/sites?pivots=deployment-language-arm-template
+
+Microsoft.Web serverfarms:
+https://learn.microsoft.com/en-us/azure/templates/microsoft.web/serverfarms?pivots=deployment-language-arm-template
+
+Microsoft.Sql servers:
+https://learn.microsoft.com/en-us/azure/templates/microsoft.sql/servers?pivots=deployment-language-arm-template
+
+Microsoft.Sql servers/databases:
+https://learn.microsoft.com/en-us/azure/templates/microsoft.sql/servers/databases?pivots=deployment-language-arm-template
+
+Microsoft.Compute virtualMachines:
+https://learn.microsoft.com/en-us/azure/templates/microsoft.compute/virtualmachines?pivots=deployment-language-arm-template
+
+
+Automate Infrastructure on Any Cloud:
+https://developer.hashicorp.com/terraform
+
+azurerm:
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_web_app
+
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/service_plan
+
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/sql_database
+
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/service_plan
+
+DSC File Resource:
+https://learn.microsoft.com/en-us/powershell/dsc/reference/resources/windows/fileresource?view=dsc-1.1
+
+Manage flaky tests:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/test/flaky-test-management?view=azure-devops
+
+https://www.selenium.dev/
+
+Azure DevOps Pipelines: Leveraging OWASP ZAP in the Release Pipeline:
+https://devblogs.microsoft.com/premier-developer/azure-devops-pipelines-leveraging-owasp-zap-in-the-release-pipeline/
+
+https://owasp.org/
+
+Smart detection in Application Insights:
+https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-diagnostics
+
+Configure liveness probes:
+https://learn.microsoft.com/en-us/azure/container-instances/container-instances-liveness-probe
+
+Configure readiness probes:
+https://learn.microsoft.com/en-us/azure/container-instances/container-instances-readiness-probe
+
+
+
